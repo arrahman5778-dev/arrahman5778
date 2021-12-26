@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Abdur Rahman
-#### I am Web Designer
 ![I am Web Designer](https://scontent.fdac2-1.fna.fbcdn.net/v/t1.6435-9/56990236_652065995235403_2040732536505630720_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeGycmHZDvV1gcWCUJAdTp4QCB8JrJFYj68IHwmskViPr6tUdRrSmxEmeSMKxdj4nG-B-UoPur8n4W5yRmma491f&_nc_ohc=4CKFHpoyEDYAX8-lIM6&tn=VuQ3nx3R_KTu4Yq1&_nc_ht=scontent.fdac2-1.fna&oh=00_AT-OJpT8Y5Ilvc_KtfxDcbE8QLVfXhhJRCVVhoJcD7PbKQ&oe=61EDE283)
+
+## Hi there 👋, I'm Abdur Rahman
+#### I am Web Designer
 
 
 Skills:  HTML / CSS/ Bootstrap
